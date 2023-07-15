@@ -66,8 +66,8 @@
 # 🔥 Stats :
 <div align="center" >
   <a href="https://github.com/noverdy">
-    <img height="175rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatahprakoso&theme=radical&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500&include_all_commits=true&count_private=true"/>
-    <img height="175rem" src="http://github-readme-streak-stats.herokuapp.com?user=fatahprakoso&theme=radical&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500"/>
+    <img height="150rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fatahprakoso&theme=radical&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500&include_all_commits=true&count_private=true"/>
+    <img height="150rem" src="http://github-readme-streak-stats.herokuapp.com?user=fatahprakoso&theme=radical&hide_border=true&border_radius=5.7&exclude_days=Sun%2CSat&card_width=500"/>
   </a>
   <a href="https://github.com/noverdy">
     <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatahprakoso&theme=radical&hide_border=true&border_radius=5.7&&card_width=888&exclude_days=Sun%2CSat&include_all_commits=true&count_private=true"/>
