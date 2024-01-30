@@ -15,7 +15,7 @@
 
 * 🧑‍🎓 Currently pursuing my final year at Brawijaya University.
 * ⌨️ Professionally, as a full-stack web developer.
-* ❄️ Currently unemployed. I need a projecttt 🔥. Joke aside.
+* ❄️ Currently unemployed. I need a projecttt 🔥.
 * 🖥️ Passionate about web development and deep learning.
 * 🕵️ Actively seeking opportunities in these fields.
 
